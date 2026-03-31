@@ -4,7 +4,7 @@
 
 A threat intelligence pipeline written in Go. Gorelate ingests public IOC feeds, normalizes and deduplicates indicators, correlates across sources for confidence scoring, generates YARA detection stubs from high-confidence IOCs, and provides LLM-powered triage summaries of emerging threat patterns.
 
-Live at **[iocs.ryoshu404.com](https://iocs.ryoshu404.com)**
+~~Live at **[iocs.ryoshu404.com](https://iocs.ryoshu404.com)**~~ Upon completion
 
 ---
 
